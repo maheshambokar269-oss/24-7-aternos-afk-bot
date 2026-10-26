@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hello-rdeL.aternos.me
-",
+    "ip": "Hello-rdeL.aternos.me",
     "port": 61422,
     "version": "1.20.1",
     "try-creative": false
